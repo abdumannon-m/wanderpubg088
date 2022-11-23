@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wanderpubg088
-- 👀 I’m interested in Artificial intelligence, Design, Entrepreneurship, Python
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Some kind of big projects
-- 📫 How to reach me abdumannonmuodiy@gmail.com
+- Hi, I’m @abdumannon_m
+- I’m interested in Artificial intelligence
+- I’m currently learning machine learning 
+- I’m looking to collaborate on small artificial intelligence projects.
+- How to reach me abdumannonmurodiy@gmail.com
 
